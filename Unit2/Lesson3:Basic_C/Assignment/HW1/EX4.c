@@ -16,7 +16,7 @@ int main ()
 	scanf ("%f",&y);
 	fflush(stdin);
 	scanf ("%f",&x);
-    fflush(stdin);
+        fflush(stdin);
 	printf ("Sum = %f",x * y);
 	return 0;
 }
